@@ -1,0 +1,32 @@
+/* Universal Styles  */
+
+:root {
+    --Gold: rgb(163, 128, 12);
+    --SaddleBrown: rgb(147, 57, 1);
+    --ArmyGreen: rgb(49, 69, 14);
+    --MiddleGreen: rgb(27, 109, 33);
+    --DarkGreen: rgb(4, 22, 2);
+    --Malachite: rgb(77, 225, 117);
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* Body Styling */
+
+body {
+
+}
+
+
+/* Header Style */
+
+h1 {
+    color: var(--Gold);
+    text-align: center;
+}
