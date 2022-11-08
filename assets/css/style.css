@@ -241,6 +241,15 @@ In a sense, the cards act as the structure of the site, containing information a
     flex-grow: 1;
 }
 
+.card-summary-body p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+
 .card-summary-body ul {
     width: auto;
     margin-left: auto;
@@ -292,8 +301,8 @@ In a sense, the cards act as the structure of the site, containing information a
 }
 
 .summary-items img {
-    max-width:40%;
-    height:auto;
+    max-width:auto;
+    height: 40%;
     display:block;
     margin-left:auto;
     margin-right:auto;
