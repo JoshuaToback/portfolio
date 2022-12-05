@@ -34,3 +34,13 @@ N/A
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+</ul>
+
+
+# Features to Add
+
+<ul>
+    <li>Social Media Links (Twitter, Email, Twitch, Linkedin)</li>
+    <li>Interactive Resume</li>
+    <li>More Projects (with Descriptions)!</li>
+</ul>
